@@ -2,6 +2,7 @@ package Principal;
 
 public class Principal {
     public static void main(String[] args) {
-        sistem.out.print("Hola mundo");
+        System.out.print("Hola mundo");
+        System.setOut("Segundo Hola");
     }
 }
